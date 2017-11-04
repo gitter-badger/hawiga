@@ -1,4 +1,4 @@
-# [BoneOS](https://BoneOS.org)
+# [Hawiga](https://BoneOS.org)
 
 
 <p align="center"><a href="https://boneos.org" target="_blank"><img width="200"src="https://i.imgur.com/H6ixAr4.png"></a></p>
