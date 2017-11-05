@@ -8,7 +8,7 @@
 
 <a href='http://docs.boneos.org/en/latest/?badge=latest'><img src='https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat' alt='Documentation Status' /></a>
 
-<a href="https://gitter.im/amanuel2/BoneOS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"><img src="https://badges.gitter.im/amanuel2/BoneOS.svg"></a>
+<a href="https://gitter.im/Hawiga/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link"><img src="https://badges.gitter.im/amanuel2/BoneOS.svg"></a>
 
 <a href="https://BoneOS.slack.com"><img src="https://slack.boneos.org/badge.svg"></a>
 
