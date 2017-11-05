@@ -1,7 +1,7 @@
 # [Hawiga](https://Hawi.ga)
 
 
-<p align="center"><a href="https://boneos.org" target="_blank"><img width="200"src="https://i.imgur.com/H6ixAr4.png"></a></p>
+<p align="center"><a href="https://boneos.org" target="_blank"><img width="200"src="https://i.imgur.com/Tc1vP5G.png"></a></p>
 
 
 <p align="center">
